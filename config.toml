@@ -43,8 +43,8 @@ blogdir = "blog"
     dateFormat = "2006/01/02"
     email = "ahmad-qabazard@uiowa.edu"
     github_username = "aq92"
-    twitter_username = "AhmadQ992"  # leave empty quotes to omit
-    gscholar_code = ""        # leave empty quotes to omit    
+    twitter_username = "AhmadQ992"  
+    gscholar_code = ""         
 
     page_color = "white"
     text_color = "black"
