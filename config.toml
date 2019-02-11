@@ -1,7 +1,7 @@
 baseurl = "http://example.netlify.io/"
 relativeurls = false
 languageCode = "en-us"
-title = "Ahmad Qabazard"
+title = "Ahmad S. Qabazard"
 theme = "hugo-prof"
 googleAnalytics = ""
 disqusShortname = ""
