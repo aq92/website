@@ -32,7 +32,7 @@ blogdir = "blog"
     email = "ahmad-qabazard@uiowa.edu"
     github_username = "aq92"
     twitter_username = "AhmadQ992"  
-    gscholar_code = ""         
+    gscholar_code = " "         
 
     page_color = "white"
     text_color = "black"
