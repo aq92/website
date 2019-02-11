@@ -37,7 +37,7 @@ blogdir = "blog"
 [params]
     description = "Ahmad is a graduate student in political science" 
     subtitle = "I am interested in comparative politics"
-    home_text = "I am a second PhD student in political science at the University of Iowa. I earned my Bachelor of Arts in philosophy and political science from Loyola Marymount University in 2015.  I studied politics at New York University and earned my Master of Arts degree in 2017. I am interested in political behavior in developing countries."
+    home_text = "I am a second-year PhD student in political science at the University of Iowa. I earned my Bachelor of Arts in philosophy and political science from Loyola Marymount University in 2015.  I studied politics at New York University and earned my Master of Arts degree in 2017. I am interested in political behavior in developing countries."
 
     author = "Ahmad Qabazard"
     dateFormat = "2006/01/02"
